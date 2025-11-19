@@ -1,0 +1,48 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+ <main>
+     <h1>Torne-se um desenvolvedor Full Stack</h1>
+      <p>A partir deste curso você poderá criar sua própria página web, com os conteúdos dejesados, estiliza-los de forma única e ainda ter interatividade em seu pagina web.Nós estudar HTML,CSS E Javascript.</p>
+      <section>
+          <h2>HTLM</h2>
+          <p>Com o HTML ou HyperText Markup Language vamos poder criar o nosso conteúdo e coloca-lo de forma organizada e estruturada</p>
+          <iframe 
+          width = "380"
+          height = "250"
+          src = "https://www.youtube.com/embed/watch?v=kUMe1FH4CHE" title = "Learn HTML – Full Tutorial for Beginners">
+          </iframe>
+      </section>
+      <section>
+          <h2>CSS</h2>
+          <p>CSS ou Cascading Style Sheets, é usado para estilizar o conteúdo do HTML, podendo muda fontes, cores e muito mais para deiixar sua pagina ainda mais interessante.</p>
+          <iframe 
+          width = "380"
+          height = "250"
+          src = "https://www.youtube.com/embed/watch?v=OXGznpKZ_sA" title = "CSS Tutorial – Full Course for Beginners">    
+          </iframe>
+      </section>
+      <section>
+          <h2>Javascript</h2>
+          <p>Javascript é uma linguagem de programação que pode pode trazer interatividade do usuário em sua página web e muito mais.</p>
+          <iframe 
+          width = "380"
+          height = "250"
+          src = "https://www.youtube.com/embed/watch?v=PkZNo7MFNFg" title = "Learn JavaScript - Full Course for Beginners">
+          </iframe>
+      </section>
+ </main>
+</body>
+
+</html>
+
+** end of index.html **
+
